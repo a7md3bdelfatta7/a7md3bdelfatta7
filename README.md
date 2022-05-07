@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelfattah</h1>
 <h3 align="center">Experienced Frontend developer with more than 7 years of experience in web/mobile development, I looking forward to learning new technologies and techniques to build websites and mobile applications people love to use.</h3>
 
-- 💬 Ask me about **Javascript,React**
+- 💬 Ask me about **HTML,CSS,Javascript,Angular,Ionic,Cordova**
 
 - 📫 How to reach me **ahme.m.abdelftah@gmail.com**
 
